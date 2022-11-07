@@ -3,6 +3,8 @@
 ## This program calculate the statistics of insurance.csv and give a user report using:
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
 statsmodels
 
 ## Features
